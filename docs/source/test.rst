@@ -39,6 +39,6 @@ Write a code:
 
 .. code-block:: console
 
-import os
-func aaa:
-  exit
+  import os
+  func aaa:
+    exit
